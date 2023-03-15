@@ -1,0 +1,39 @@
+ {
+    "user" : [
+        {
+            "name" : "Sufiyan",
+            "address" : "Pune",
+            "email" : "shaikhsufiyan174@gmail.com",
+            "contact" : "9623073006",
+            "id" : 1
+        },
+        {
+            "name" : "Saifan",
+            "address" : "Pune",
+            "email" : "shaikhsaifan455@gmail.com",
+            "contact" : "9464835934",
+            "id" : 2
+        },
+        {
+            "name" : "Sahil",
+            "address" : "Pune",
+            "email" : "shaikhsahil938@gmail.com",
+            "contact" : "9279572893",
+            "id" : 3
+        },
+        {
+            "name" : "Sameer",
+            "address" : "Pune",
+            "email" : "shaikhsameer387@gmail.com",
+            "contact" : "9972367910",
+            "id" : 4
+        },
+        {
+            "name" : "Sohail",
+            "address" : "Pune",
+            "email" : "shaikhsohail358@gmail.com",
+            "contact" : "9790163795",
+            "id" : 5
+        }
+    ]
+ }
